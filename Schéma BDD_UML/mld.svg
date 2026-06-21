@@ -1,0 +1,293 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1410" height="635" viewBox="0 0 1410 635">
+<rect x="0" y="0" width="1410" height="635" fill="#ffffff" stroke="none" stroke-width="0"/>
+
+<!-- Association CONTENIR_CATEGORIE -->
+<g>
+	<line x1="348" y1="94" x2="123" y2="94" stroke="#d6604d" stroke-width="2"/>
+	<line x1="123" y1="288" x2="123" y2="94" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M188 69 a14 14 90 0 1 14 14 V94 h-158 V83 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M202 94 v11 a14 14 90 0 1 -14 14 H58 a14 14 90 0 1 -14 -14 V94 H158" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="44" y="69" width="158" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="44" y1="94" x2="202" y2="94" stroke="#d6604d" stroke-width="1"/>
+		<text x="51" y="86.75" fill="#000000" font-family="Verdana" font-size="12">CONTENIR_CATEGORIE</text>
+	</g>
+	<text x="208" y="111" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="128" y="170" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association CREER_CATEGORIE -->
+<g>
+	<line x1="808" y1="94" x2="561" y2="94" stroke="#d6604d" stroke-width="2"/>
+	<line x1="348" y1="94" x2="561" y2="94" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M614 69 a14 14 90 0 1 14 14 V94 h-134 V83 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M628 94 v11 a14 14 90 0 1 -14 14 H508 a14 14 90 0 1 -14 -14 V94 H134" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="494" y="69" width="134" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="494" y1="94" x2="628" y2="94" stroke="#d6604d" stroke-width="1"/>
+		<text x="501" y="86.75" fill="#000000" font-family="Verdana" font-size="12">CREER_CATEGORIE</text>
+	</g>
+	<text x="722" y="86" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="467" y="111" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association RECEVOIR_NOTIFICATION -->
+<g>
+	<line x1="808" y1="94" x2="1059" y2="94" stroke="#d6604d" stroke-width="2"/>
+	<line x1="1290" y1="94" x2="1059" y2="94" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M1133 69 a14 14 90 0 1 14 14 V94 h-176 V83 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M1147 94 v11 a14 14 90 0 1 -14 14 H985 a14 14 90 0 1 -14 -14 V94 H176" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="971" y="69" width="176" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="971" y1="94" x2="1147" y2="94" stroke="#d6604d" stroke-width="1"/>
+		<text x="978" y="86.75" fill="#000000" font-family="Verdana" font-size="12">RECEVOIR_NOTIFICATION</text>
+	</g>
+	<text x="873" y="86" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="1152" y="111" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association CREER_MATERIEL -->
+<g>
+	<line x1="808" y1="94" x2="348" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<line x1="123" y1="288" x2="348" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M396 263 a14 14 90 0 1 14 14 V288 h-124 V277 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M410 288 v11 a14 14 90 0 1 -14 14 H300 a14 14 90 0 1 -14 -14 V288 H124" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="286" y="263" width="124" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="286" y1="288" x2="410" y2="288" stroke="#d6604d" stroke-width="1"/>
+		<text x="293" y="280.75" fill="#000000" font-family="Verdana" font-size="12">CREER_MATERIEL</text>
+	</g>
+	<text x="722" y="114.61" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="242" y="305" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association APPROUVER_DEMANDE -->
+<g>
+	<line x1="808" y1="94" x2="561" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<line x1="808" y1="516" x2="561" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M626 263 a14 14 90 0 1 14 14 V288 h-158 V277 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M640 288 v11 a14 14 90 0 1 -14 14 H496 a14 14 90 0 1 -14 -14 V288 H158" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="482" y="263" width="158" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="482" y1="288" x2="640" y2="288" stroke="#d6604d" stroke-width="1"/>
+		<text x="490" y="280.75" fill="#000000" font-family="Verdana" font-size="12">APPROUVER_DEMANDE</text>
+	</g>
+	<text x="722" y="139.0" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="687.16" y="398" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association FAIRE_DEMANDE -->
+<g>
+	<line x1="808" y1="94" x2="808" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<line x1="808" y1="516" x2="808" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M854 263 a14 14 90 0 1 14 14 V288 h-120 V277 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M868 288 v11 a14 14 90 0 1 -14 14 H762 a14 14 90 0 1 -14 -14 V288 H120" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="748" y="263" width="120" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="748" y1="288" x2="868" y2="288" stroke="#d6604d" stroke-width="1"/>
+		<text x="755" y="280.75" fill="#000000" font-family="Verdana" font-size="12">FAIRE_DEMANDE</text>
+	</g>
+	<text x="813" y="196" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="813" y="398" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association VALIDER_DEMANDE -->
+<g>
+	<line x1="808" y1="94" x2="1059" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<line x1="808" y1="516" x2="1059" y2="288" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M1114 263 a14 14 90 0 1 14 14 V288 h-138 V277 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M1128 288 v11 a14 14 90 0 1 -14 14 H1004 a14 14 90 0 1 -14 -14 V288 H138" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="990" y="263" width="138" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="990" y1="288" x2="1128" y2="288" stroke="#d6604d" stroke-width="1"/>
+		<text x="998" y="280.75" fill="#000000" font-family="Verdana" font-size="12">VALIDER_DEMANDE</text>
+	</g>
+	<text x="873" y="138.17" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="908.69" y="398" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association CONCERNER_MATERIEL -->
+<g>
+	<line x1="123" y1="288" x2="123" y2="516" stroke="#d6604d" stroke-width="2"/>
+	<line x1="348" y1="516" x2="123" y2="516" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M189 491 a14 14 90 0 1 14 14 V516 h-160 V505 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M203 516 v11 a14 14 90 0 1 -14 14 H57 a14 14 90 0 1 -14 -14 V516 H160" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="43" y="491" width="160" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="43" y1="516" x2="203" y2="516" stroke="#d6604d" stroke-width="1"/>
+		<text x="50" y="508.75" fill="#000000" font-family="Verdana" font-size="12">CONCERNER_MATERIEL</text>
+	</g>
+	<text x="128" y="415" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="223" y="533" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Association COMPOSER_DEMANDE -->
+<g>
+	<line x1="808" y1="516" x2="561" y2="516" stroke="#d6604d" stroke-width="2"/>
+	<line x1="348" y1="516" x2="561" y2="516" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M623 491 a14 14 90 0 1 14 14 V516 h-152 V505 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M637 516 v11 a14 14 90 0 1 -14 14 H499 a14 14 90 0 1 -14 -14 V516 H152" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="485" y="491" width="152" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="485" y1="516" x2="637" y2="516" stroke="#d6604d" stroke-width="1"/>
+		<text x="492" y="508.75" fill="#000000" font-family="Verdana" font-size="12">COMPOSER_DEMANDE</text>
+	</g>
+	<text x="643" y="533" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="451" y="533" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+</g>
+
+<!-- Association GENERER_HISTORIQUE -->
+<g>
+	<line x1="808" y1="516" x2="1059" y2="516" stroke="#d6604d" stroke-width="2"/>
+	<line x1="1290" y1="516" x2="1059" y2="516" stroke="#d6604d" stroke-width="2"/>
+	<g>
+		<path d="M1125 491 a14 14 90 0 1 14 14 V516 h-160 V505 a14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<path d="M1139 516 v11 a14 14 90 0 1 -14 14 H993 a14 14 90 0 1 -14 -14 V516 H160" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="979" y="491" width="160" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+		<line x1="979" y1="516" x2="1139" y2="516" stroke="#d6604d" stroke-width="1"/>
+		<text x="987" y="508.75" fill="#000000" font-family="Verdana" font-size="12">GENERER_HISTORIQUE</text>
+	</g>
+	<text x="952" y="533" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+	<text x="1165" y="533" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+</g>
+
+<!-- Entity CATEGORIE -->
+<g>
+	<g>
+		<rect x="234" y="35" width="228" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="234" y="60" width="228" height="93" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="234" y="35" width="228" height="118" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="234" y1="60" x2="462" y2="60" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="312" y="52.75" fill="#000000" font-family="Verdana" font-size="12">CATEGORIE</text>
+	<text x="239" y="77.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="239" y1="80" x2="251" y2="80" stroke="#000000" stroke-width="1"/>
+	<text x="239" y="94.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="239" y="111.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="239" y="128.8" fill="#000000" font-family="Verdana" font-size="12">date_modification</text>
+	<text x="239" y="145.8" fill="#000000" font-family="Verdana" font-size="12">created_by_id --FK UTILISATEUR.id</text>
+</g>
+
+<!-- Entity UTILISATEUR -->
+<g>
+	<g>
+		<rect x="748" y="9" width="120" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="748" y="34" width="120" height="145" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="748" y="9" width="120" height="170" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="748" y1="34" x2="868" y2="34" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="767" y="26.75" fill="#000000" font-family="Verdana" font-size="12">UTILISATEUR</text>
+	<text x="753" y="51.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="753" y1="54" x2="765" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="753" y="68.8" fill="#000000" font-family="Verdana" font-size="12">email</text>
+	<text x="753" y="85.8" fill="#000000" font-family="Verdana" font-size="12">password</text>
+	<text x="753" y="102.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="753" y="119.8" fill="#000000" font-family="Verdana" font-size="12">roles</text>
+	<text x="753" y="136.8" fill="#000000" font-family="Verdana" font-size="12">statut</text>
+	<text x="753" y="153.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="753" y="170.8" fill="#000000" font-family="Verdana" font-size="12">date_modification</text>
+</g>
+
+<!-- Entity NOTIFICATION -->
+<g>
+	<g>
+		<rect x="1179" y="35" width="222" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="1179" y="60" width="222" height="93" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="1179" y="35" width="222" height="118" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="1179" y1="60" x2="1401" y2="60" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="1245" y="52.75" fill="#000000" font-family="Verdana" font-size="12">NOTIFICATION</text>
+	<text x="1184" y="77.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="1184" y1="80" x2="1196" y2="80" stroke="#000000" stroke-width="1"/>
+	<text x="1184" y="94.8" fill="#000000" font-family="Verdana" font-size="12">message</text>
+	<text x="1184" y="111.8" fill="#000000" font-family="Verdana" font-size="12">lu</text>
+	<text x="1184" y="128.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="1184" y="145.8" fill="#000000" font-family="Verdana" font-size="12">utilisateur_id --FK UTILISATEUR.id</text>
+</g>
+
+<!-- Entity MATERIEL -->
+<g>
+	<g>
+		<rect x="9" y="178" width="228" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="9" y="203" width="228" height="195" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="9" y="178" width="228" height="220" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="9" y1="203" x2="237" y2="203" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="92" y="195.75" fill="#000000" font-family="Verdana" font-size="12">MATERIEL</text>
+	<text x="14" y="220.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="14" y1="223" x2="26" y2="223" stroke="#000000" stroke-width="1"/>
+	<text x="14" y="237.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="14" y="254.8" fill="#000000" font-family="Verdana" font-size="12">description</text>
+	<text x="14" y="271.8" fill="#000000" font-family="Verdana" font-size="12">quantite_totale</text>
+	<text x="14" y="288.8" fill="#000000" font-family="Verdana" font-size="12">quantite_disponible</text>
+	<text x="14" y="305.8" fill="#000000" font-family="Verdana" font-size="12">etat</text>
+	<text x="14" y="322.8" fill="#000000" font-family="Verdana" font-size="12">seuil_alerte</text>
+	<text x="14" y="339.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="14" y="356.8" fill="#000000" font-family="Verdana" font-size="12">date_modification</text>
+	<text x="14" y="373.8" fill="#000000" font-family="Verdana" font-size="12">categorie_id --FK CATEGORIE.id</text>
+	<text x="14" y="390.8" fill="#000000" font-family="Verdana" font-size="12">created_by_id --FK UTILISATEUR.id</text>
+</g>
+
+<!-- Entity DEMANDE_MATERIEL -->
+<g>
+	<g>
+		<rect x="250" y="423" width="196" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="250" y="448" width="196" height="161" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="250" y="423" width="196" height="186" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="250" y1="448" x2="446" y2="448" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="283" y="440.75" fill="#000000" font-family="Verdana" font-size="12">DEMANDE_MATERIEL</text>
+	<text x="255" y="465.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="255" y1="468" x2="267" y2="468" stroke="#000000" stroke-width="1"/>
+	<text x="255" y="482.8" fill="#000000" font-family="Verdana" font-size="12">quantite_demandee</text>
+	<text x="255" y="499.8" fill="#000000" font-family="Verdana" font-size="12">quantite_accordee</text>
+	<text x="255" y="516.8" fill="#000000" font-family="Verdana" font-size="12">statut</text>
+	<text x="255" y="533.8" fill="#000000" font-family="Verdana" font-size="12">date_validation</text>
+	<text x="255" y="550.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="255" y="567.8" fill="#000000" font-family="Verdana" font-size="12">date_modification</text>
+	<text x="255" y="584.8" fill="#000000" font-family="Verdana" font-size="12">demande_id --FK DEMANDE.id</text>
+	<text x="255" y="601.8" fill="#000000" font-family="Verdana" font-size="12">materiel_id --FK MATERIEL.id</text>
+</g>
+
+<!-- Entity DEMANDE -->
+<g>
+	<g>
+		<rect x="669" y="406" width="278" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="669" y="431" width="278" height="195" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="669" y="406" width="278" height="220" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="669" y1="431" x2="947" y2="431" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="777" y="423.75" fill="#000000" font-family="Verdana" font-size="12">DEMANDE</text>
+	<text x="674" y="448.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="674" y1="451" x2="686" y2="451" stroke="#000000" stroke-width="1"/>
+	<text x="674" y="465.8" fill="#000000" font-family="Verdana" font-size="12">commentaire_validation</text>
+	<text x="674" y="482.8" fill="#000000" font-family="Verdana" font-size="12">commentaire_approbation</text>
+	<text x="674" y="499.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="674" y="516.8" fill="#000000" font-family="Verdana" font-size="12">date_modification</text>
+	<text x="674" y="533.8" fill="#000000" font-family="Verdana" font-size="12">date_validation</text>
+	<text x="674" y="550.8" fill="#000000" font-family="Verdana" font-size="12">date_approbation</text>
+	<text x="674" y="567.8" fill="#000000" font-family="Verdana" font-size="12">statut</text>
+	<text x="674" y="584.8" fill="#000000" font-family="Verdana" font-size="12">utilisateur_id --FK UTILISATEUR.id</text>
+	<text x="674" y="601.8" fill="#000000" font-family="Verdana" font-size="12">comptable_matiere_id --FK UTILISATEUR.id</text>
+	<text x="674" y="618.8" fill="#000000" font-family="Verdana" font-size="12">administrateur_id --FK UTILISATEUR.id</text>
+</g>
+
+<!-- Entity HISTORIQUE -->
+<g>
+	<g>
+		<rect x="1192" y="457" width="196" height="25" fill="#bababa" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="1192" y="482" width="196" height="93" fill="#e0e0e0" stroke="none" stroke-width="0" opacity="1"/>
+		<rect x="1192" y="457" width="196" height="118" fill="none" stroke="#878787" stroke-width="2" opacity="1"/>
+		<line x1="1192" y1="482" x2="1388" y2="482" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="1251" y="474.75" fill="#000000" font-family="Verdana" font-size="12">HISTORIQUE</text>
+	<text x="1197" y="499.8" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="1197" y1="502" x2="1209" y2="502" stroke="#000000" stroke-width="1"/>
+	<text x="1197" y="516.8" fill="#000000" font-family="Verdana" font-size="12">date_action</text>
+	<text x="1197" y="533.8" fill="#000000" font-family="Verdana" font-size="12">type_action</text>
+	<text x="1197" y="550.8" fill="#000000" font-family="Verdana" font-size="12">objet_type</text>
+	<text x="1197" y="567.8" fill="#000000" font-family="Verdana" font-size="12">demande_id --FK DEMANDE.id</text>
+</g>
+</svg>
